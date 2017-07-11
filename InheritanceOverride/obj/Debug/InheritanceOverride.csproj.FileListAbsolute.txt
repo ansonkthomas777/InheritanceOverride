@@ -1,0 +1,6 @@
+c:\users\linsa anson\documents\visual studio 2017\Projects\InheritanceOverride\InheritanceOverride\bin\Debug\InheritanceOverride.exe.config
+c:\users\linsa anson\documents\visual studio 2017\Projects\InheritanceOverride\InheritanceOverride\bin\Debug\InheritanceOverride.exe
+c:\users\linsa anson\documents\visual studio 2017\Projects\InheritanceOverride\InheritanceOverride\bin\Debug\InheritanceOverride.pdb
+c:\users\linsa anson\documents\visual studio 2017\Projects\InheritanceOverride\InheritanceOverride\obj\Debug\InheritanceOverride.csprojResolveAssemblyReference.cache
+c:\users\linsa anson\documents\visual studio 2017\Projects\InheritanceOverride\InheritanceOverride\obj\Debug\InheritanceOverride.exe
+c:\users\linsa anson\documents\visual studio 2017\Projects\InheritanceOverride\InheritanceOverride\obj\Debug\InheritanceOverride.pdb
